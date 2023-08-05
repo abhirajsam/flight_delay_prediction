@@ -6,7 +6,7 @@ In this project, I was able to:
   - Impact of delayed flights
   - Popular destinations with average airline delay
 - Identify that Delta and Alaska Airlines are two of the most reliable airlines with the lowest number of delayed flights.
-- Visualize the cleaned dataset using Tableau, creating an interactive dashboard with filters for easy data exploration.
+- Visualize the cleaned dataset using #Tableau, creating an interactive dashboard with filters for easy data exploration.
 - Utilize various predictive models including XGBoost, ADABoost, and Random Forest to forecast flight delays before they are displayed on the board.
 - Compare the accuracy of the three prediction models and identify the one with the highest accuracy.
 
